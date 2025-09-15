@@ -10,10 +10,10 @@
 <body>
     <a href="/">HOMEPAGE </a><br/>
     <h1 >Aggiunta libro</h1>
-    <form action="/save">
-        <input type="text" name="au" placeholder="Inserisci autore" /><br/><br/>
-        <input type="text" name="ti" placeholder="Inserisci titolo" /><br/><br/>
-        <input type="number" name="ye" placeholder="Inserisci anno" /><br/><br/>
+    <form action="/form" method="post">
+        <input type="text" name="autore" placeholder="Inserisci autore" /><br/><br/>
+        <input type="text" name="titolo" placeholder="Inserisci titolo" /><br/><br/>
+        <input type="number" name="anno" placeholder="Inserisci anno" /><br/><br/>
         <input type="submit" value="Salva" /><br/>
 
 
