@@ -15,11 +15,34 @@
         <input type="text" name="titolo" placeholder="Inserisci titolo" /><br/><br/>
         <input type="number" name="anno" placeholder="Inserisci anno" /><br/><br/>
         <input type="submit" value="Salva" /><br/>
-
-
     </form>
-
-
-
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
